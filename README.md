@@ -2,7 +2,7 @@
 
 ## Technologies Used:
 
-Spring Data JPA
-Hibernate ORM
-PostgreSQL
-Java
+- Spring Data JPA
+- Hibernate ORM
+- PostgreSQL
+- Java
